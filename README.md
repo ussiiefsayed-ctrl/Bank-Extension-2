@@ -1,5 +1,3 @@
-# Bank-Extension-2
-Bank Management System with C++
 
 # 🏦 Bank Extension 2
 
